@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Node (if you add frontend later)
+node_modules/
+.next/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jenkins / local
+*.jenkins
+
+# Secrets
+.env
